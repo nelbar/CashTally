@@ -16,9 +16,7 @@ This policy applies to all information collected on the CashTally iPhone App.
 We collect only data you enter in the app.  This data remains on your device and is not accessible anywhere else.
 
 ### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+None
 
 ### 1.2 Information you provide to us 
 Zero nada.  Your data remains under your control in the App.
