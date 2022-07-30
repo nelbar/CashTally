@@ -25,9 +25,9 @@ your_link                                 : https://emilbaehr.com
 your_city                                 : Copenhagen                                
 email_address                             : emil.baehr@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : nelbar
+github_username                           : nelbar
 youtube_username                          :
 
 
@@ -35,12 +35,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Track accounts
+    description                           : Keep running balance of your accounts (checking, savings, credit cards, etc)
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Preview account transactions
+    description                           : Enter one time or recurring transactions, with running balances.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
