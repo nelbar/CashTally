@@ -38,7 +38,7 @@ features                                  :
     description                           : Project and track your expenses and income across all your accounts  e.g. checking, savings, credit cards, etc.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Track accounts: Schedule recurring transactions, e.g. utility bills, salary deposits
+  - title                                 : Track accounts Schedule recurring transactions, e.g. utility bills, salary deposits
     description                           : Mark some recurring transactions as automatic
     fontawesome_icon_name                 : mobile
 
