@@ -55,7 +55,15 @@ features                                  :
     fontawesome_icon_name                 : adjust
   
   - title                                 : Recurring Reminders
-    description                           :create recurring reminders e.g. mow yard, haircut, change furnace filters, replace toothbrush, etc
+    description                           : create recurring reminders e.g. mow yard, haircut, change furnace filters, replace toothbrush, etc
+    fontawesome_icon_name                 : star
+    
+  - title                                 : Widget
+    description                           : Preview upcoming cash events or reminders.
+    fontawesome_icon_name                 : star
+
+  - title                                 : Widget
+    description                           : Jump directly to one of the 3 functions via the widget
     fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
