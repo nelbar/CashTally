@@ -42,11 +42,11 @@ features                                  :
     description                           : Mark some recurring transactions as automatic
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Track accounts: Schedule reminders for upcoming transactions
+  - title                                 : Track accounts Schedule reminders for upcoming transactions
     description                           : 
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Track accounts: Transfer between accounts
+  - title                                 : Track accounts Transfer between accounts
     description                           : 
     fontawesome_icon_name                 : sync
 
