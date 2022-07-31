@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+August 10 2022
 
 # Privacy Policy
 This policy applies to all information collected on the CashTally iPhone App.
