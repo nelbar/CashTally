@@ -14,9 +14,6 @@ app_icon                                  : # assets/appicon.png                
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : This app has 3 functions.
-1.  project and track your expenses and income across all your accounts  e.g. checking, savings, credit cards, etc.
-2.  count things easily e.g. calories, bank balances, card game scores, etc. 
-3. create recurring reminders e.g. mow yard, haircut, change furnace filters, replace toothbrush, etc
 
 It also has a widget to show you at a glance upcoming events and transactions, and allow you to jump
 directly to one of the three functions.
@@ -42,39 +39,39 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Track accounts
-    description                           : Keep running balance of your accounts (checking, savings, credit cards, etc)
+    description                           : Project and track your expenses and income across all your accounts  e.g. checking, savings, credit cards, etc.
     fontawesome_icon_name                 : magic
     
-  - title                                 : Preview account transactions
-    description                           : Enter one time or recurring transactions, with running balances.
+  - title                                 : Schedule recurring transactions, e.g. utility bills, salary deposits
+    description                           : Mark some recurring transactions as automatic
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Schedule reminders for upcoming transactions
+    description                           : 
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Transfer between accounts
+    description                           : 
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 
+    description                           : 
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : 
+    description                           :
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : 
+    description                           : 
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : 
     fontawesome_icon_name                 : link
 
   - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    description                           : 
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
