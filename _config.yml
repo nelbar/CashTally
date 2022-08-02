@@ -38,37 +38,6 @@ features                                  :
     description                           : Project and track your expenses and income across all your accounts  e.g. checking, savings, credit cards, etc.
     fontawesome_icon_name                 : magic
     
-    
-  - title                                 : Schedule recurring transactions, e.g. utility bills, salary deposits
-    description                           : Mark some recurring transactions as automatic
-    fontawesome_icon_name                 : mobile
-    
-
-  - title                                 : Schedule reminders for upcoming transactions
-    description                           : 
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Transfer between accounts
-    description                           : 
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Widget
-    description                           : Preview upcoming cash events or reminders.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Widget
-    description                           : Jump directly to one of the 3 functions via the widget
-    fontawesome_icon_name                 : star
-
-- title                                 : Count things
-    description                           : Easily tally things e.g. calories, bank balances, card game scores, etc. 
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Recurring Reminders
-    description                           : create recurring reminders e.g. mow yard, haircut, change furnace filters, replace toothbrush, etc
-    fontawesome_icon_name                 : star
-    
-
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
