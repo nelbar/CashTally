@@ -38,9 +38,11 @@ features                                  :
     description                           : Project and track your expenses and income across all your accounts  e.g. checking, savings, credit cards, etc.
     fontawesome_icon_name                 : magic
     
+    
   - title                                 : Schedule recurring transactions, e.g. utility bills, salary deposits
     description                           : Mark some recurring transactions as automatic
     fontawesome_icon_name                 : mobile
+    
 
   - title                                 : Schedule reminders for upcoming transactions
     description                           : 
@@ -70,8 +72,6 @@ features                                  :
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
