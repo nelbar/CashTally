@@ -40,15 +40,15 @@ features                                  :
     
   - title                                 : Create recurring Reminders
     description                           : e.g. mow grass, change furnace filters
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : info-circle
     
   - title                                 : Tally things
     description                           : e.g. card game scores, calories
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : play-circle
     
   - title                                 : Widget
     description                           : show upcoming events, jump directly to one of the 3 functions
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : star
     
   - title                                 : # New Feature Title
     description                           : # New Feature Description
